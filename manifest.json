@@ -1,0 +1,16 @@
+{
+  "name": "कुंडली विज्ञान — Kundli Vigyan",
+  "short_name": "कुंडली विज्ञान",
+  "description": "पंचांग, कुंडली, षोडशवर्ग, दशाएँ, मिलान, वर्षफल, मुहूर्त, कैलेंडर, अंक ज्योतिष — www.sanskritgyan.in",
+  "lang": "hi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#2c2470",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
